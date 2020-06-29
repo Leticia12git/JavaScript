@@ -3,9 +3,13 @@ Imersao Game Dev Alura
 
 
 Nesta imersao utilizamos de algumas tecnologias como :
+
 HTML;
+
 CSS;
+
 JavaScript;
+
 P5 JS.
 
 
