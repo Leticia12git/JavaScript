@@ -13,5 +13,5 @@ JavaScript;
 P5 JS.
 
 
-Foi uma otima semana para iniciar nossos passos na programacao com jgos 
+Foi uma otima semana para iniciar nossos passos na programacao com jogos 
 Obrigada Alura por nos proporcionar momentos como esse .
